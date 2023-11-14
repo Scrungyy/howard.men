@@ -1,0 +1,24 @@
+html {
+    background-image: url(./background.jpg);   
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+p {
+        color: black;
+        font-family: old;
+        font-size: large;
+    }
+.guh {
+    font-family: old;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: bolder;
+    padding: 10px;
+    max-width: 1000px;
+}
+@font-face {
+    font-family: old;
+    src: url(./old.otf);
+}
